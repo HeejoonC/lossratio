@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.streamlit/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+# 생성된 보고서 파일
+*보고서.html
+*_report.html
